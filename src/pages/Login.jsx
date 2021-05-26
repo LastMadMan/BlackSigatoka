@@ -11,7 +11,7 @@ function Login() {
                     <div className='columns is-centered'>
                         <div className='column is-5-tablet is-4-desktop is-3-widescreen'>
                             <form action={new_login} className="box has-text-centered">
-                                <h1 className="title is-4 has-text-primary">BlackCigatoka</h1>
+                                <h1 className="title is-4 has-text-primary">BlackSigatoka</h1>
                                 <div className="field">
                                     <div class="control has-icons-left">
                                         <input type="email" className="input is-primary is-rounded" placeholder="Email" required />
